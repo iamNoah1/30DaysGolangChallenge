@@ -161,10 +161,17 @@ To help keep each session within the 30-minute timeframe, I suggest the followin
 
 ## Final Project: Integrating Skills
 
+In the final phase we will create a small project to integrate multiple concepts learned in the days before. 
+
 ### Day 29: Planning and Setting Up
 
-Plan the mini project, set up the project structure, and create basic routes.
+Plan the mini project, set up the project structure, and create basic routes, etc. 
+
 ### Day 30: Implementation
 
-Implement key functionalities prioritizing MVP (maybe start with basic CRUD operations).
-By segmenting the tasks this way and focusing on minimal viable implementations, you’re more likely to complete each task within 30 minutes. If you find some tasks taking longer, remember it’s perfectly okay to extend into the next session! The key is consistent, structured practice. Happy coding! 🚀
+Build Your MVP: Start with core functionalities and iterate on features. This may take longer than your previous 1-week projects. From here you can decide how you want to continue with your coding pracitices. 
+
+
+
+
+Remember, if you find some tasks taking longer, it’s perfectly okay to extend into the next session! The key is consistent, structured practice. Happy coding! 🚀
