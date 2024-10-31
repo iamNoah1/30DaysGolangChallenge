@@ -4,10 +4,12 @@ This is a simple project for a 30 days of Go challenge. It is a simple todo CLI 
 
 ## Run application 
 
-In order to run the application you can use the following command:
+In order to run the application you can use the following commands
+
+### Add Todo item
 
 ```
-go run main.go togo
+go run main.go create -d "new item"
 ```
 
 Note that atm there is no functionility behind the root command
